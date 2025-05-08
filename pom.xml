@@ -12,7 +12,7 @@
 		<relativePath/>
 	</parent>
 
-	<groupId>tg.ngstars</groupId>
+	<groupId>tg.ngstarss</groupId>
 	<artifactId>entities</artifactId>
 	<version>0.0.1</version>
 
