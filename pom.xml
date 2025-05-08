@@ -14,7 +14,7 @@
 
 	<groupId>tg.ngstarss</groupId>
 	<artifactId>entities</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2</version>
 
 	<name>entities</name>
 	<description>Shared entities module for all microservices</description>
